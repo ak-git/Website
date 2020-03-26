@@ -1,6 +1,6 @@
 {
   "name": "website",
-  "version": "2020.03.1",
+  "version": "2020.03.2",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
@@ -22,7 +22,7 @@
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.12.1",
-    "@vue/cli-plugin-eslint": "^3.12.1",
+    "@vue/cli-plugin-eslint": "^4.2.3",
     "@vue/cli-service": "^4.2.3",
     "babel-eslint": "^10.1.0",
     "eslint": "^5.16.0",
