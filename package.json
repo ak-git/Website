@@ -1,6 +1,6 @@
 {
   "name": "website",
-  "version": "2020.05.06",
+  "version": "2020.06.09",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
@@ -9,11 +9,11 @@
   },
   "dependencies": {
     "amazon-cognito-identity-js": "^3.3.3",
-    "apexcharts": "^3.19.0",
-    "aws-sdk": "^2.671.0",
+    "apexcharts": "^3.19.2",
+    "aws-sdk": "^2.692.0",
     "axios": "^0.19.2",
-    "bootstrap": "^4.4.1",
-    "bootstrap-vue": "^2.13.1",
+    "bootstrap": "^4.5.0",
+    "bootstrap-vue": "^2.15.0",
     "core-js": "^2.6.11",
     "jquery": "^3.5.1",
     "lodash": "^4.17.15",
@@ -22,8 +22,8 @@
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.12.1",
-    "@vue/cli-plugin-eslint": "^4.3.1",
-    "@vue/cli-service": "^4.3.1",
+    "@vue/cli-plugin-eslint": "^4.4.1",
+    "@vue/cli-service": "^4.4.1",
     "babel-eslint": "^10.1.0",
     "eslint": "^5.16.0",
     "eslint-plugin-vue": "^5.2.3",
