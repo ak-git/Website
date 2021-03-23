@@ -1,6 +1,6 @@
 {
   "name": "website",
-  "version": "2021.03.16",
+  "version": "2021.03.23",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
